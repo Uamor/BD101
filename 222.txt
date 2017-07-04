@@ -1,0 +1,6 @@
+222
+
+
+Lab:update file
+Lab:reset commit --hard
+@@@@@@@@@@@@
